@@ -7,7 +7,7 @@ Get a random list of wikipedia articles including their titles and urls in the f
 
 ## Example Usage
 ---
-```
+```js
 const randomwikis = require("randomwikis");
 (async() => (
 // use async to await promise
