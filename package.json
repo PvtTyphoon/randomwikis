@@ -1,0 +1,33 @@
+{
+	"name": "randomwikis",
+	"version": "0.1.0",
+	"description": "Get a random list of wikipedia articles including their titles and urls in the form of an array returned as a promise.",
+	"main": "./src/wiki.js",
+	"author": "PvtTyphoon",
+	"license": "Apache-2.0",
+	"licenses": [
+		{
+			"type": "Apache-2.0",
+			"url": "http://www.apache.org/licenses/LICENSE-2.0"
+		}
+	],
+	"homepage": "https://github.com/PvtTyphoon/randomwikis",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/PvtTyphoon/randomwikis"
+	},
+	"bugs": {
+		"url": "https://github.com/PvtTyphoon/randomwikis/issues"
+	},
+	"keywords": [
+		"wikipedia",
+		"random articles",
+		"wikipedia random",
+		"random wikis",
+		"random",
+		"wiki"
+	],
+	"dependencies": {
+		"request-promise": "4.2.4"
+	}
+}
